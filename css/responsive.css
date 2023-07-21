@@ -1,0 +1,50 @@
+@media(max-width: 320px) {
+    .boton {
+
+        height: 120px;
+        width: 100%;
+
+    }
+
+    button {
+        height: 80px;
+        font-size: 30px;
+        
+    }
+
+    .corazon-popup {
+        top: 12%;
+        right: 0%;
+        height: 700px;
+    }
+    audio{
+        height: 120px;
+    }
+
+    .text{
+        font-size: 30px;
+    }
+
+    .modals{
+        display: block;
+        height: 700px;
+    }
+    .heart{
+        margin-left: 20%;
+    }
+
+    .contenido{
+        width: 100%;
+    }
+
+    .contenido h1{
+        font-size: 80px;
+    }
+    .contenido h1{
+        font-size: 60px;
+    }
+    #maquina-escribir{
+        font-size: 27px;
+    }
+
+}
